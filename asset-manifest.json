@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OlenaUser1982.github.io/-goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/OlenaUser1982.github.io/-goit-react-hw-04-feedback/static/js/main.c3c34ee4.js",
-    "index.html": "/OlenaUser1982.github.io/-goit-react-hw-04-feedback/index.html",
-    "main.7acaea2f.css.map": "/OlenaUser1982.github.io/-goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.c3c34ee4.js.map": "/OlenaUser1982.github.io/-goit-react-hw-04-feedback/static/js/main.c3c34ee4.js.map"
+    "main.css": "/-goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/-goit-react-hw-04-feedback/static/js/main.3cc05223.js",
+    "index.html": "/-goit-react-hw-04-feedback/index.html",
+    "main.7acaea2f.css.map": "/-goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
+    "main.3cc05223.js.map": "/-goit-react-hw-04-feedback/static/js/main.3cc05223.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c3c34ee4.js"
+    "static/js/main.3cc05223.js"
   ]
 }
